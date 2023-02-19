@@ -1,3 +1,4 @@
+![banner](https://user-images.githubusercontent.com/34955737/219934860-413389fb-e426-46b8-84db-46bd82ccbd09.jpg)
 ### Hi there 👋 
 My name is Christopher Aitken, and I'm a full-stack software developer based in 🌴Miami, FL.  
 I particularly enjoy developing apps on AWS using ⚛️React, 📦Node.js, & 🐘PostgreSQL.
