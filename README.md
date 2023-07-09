@@ -1,6 +1,7 @@
-![banner](https://user-images.githubusercontent.com/34955737/219934860-413389fb-e426-46b8-84db-46bd82ccbd09.jpg)
-### Hi there 👋 
-My name is Christopher Aitken, and I'm a full-stack software developer based in 🌴Lake Worth Beach, FL.  
-I particularly enjoy developing apps on AWS using ⚛️React, 📦Node.js, & 🐘PostgreSQL.
+### Hey there 👋 
+My name is Christopher Aitken, and I'm a senior software developer based in [🌴Lake Worth Beach, FL](https://en.wikipedia.org/wiki/Lake_Worth_Beach,_Florida).  
+I particularly enjoy developing serverless apps on AWS using ⚛️React, 📦Node.js, & 🐘PostgreSQL.
 
-If you're interested in learning more, visit my portfolio website at https://heythisischris.com. Cheers!
+If you're interested in learning more, visit my portfolio website at [heythisischris.com](https://heythisischris.com), or shoot me an email via [c@htic.io](mailto:c@htic.io).
+
+Cheers!
