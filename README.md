@@ -1,5 +1,5 @@
 ### Hey there 👋 
-My name is Christopher Aitken, and I'm a 28 year old senior software developer based in [New Orleans, LA](https://en.wikipedia.org/wiki/New_Orleans).  
+My name is Christopher Aitken, and I'm a senior software developer based in [New Orleans, LA](https://en.wikipedia.org/wiki/New_Orleans).  
 
 I particularly enjoy developing serverless apps on AWS using ⚛️React, 📦Node.js, 🐘PostgreSQL.  
 I also build custom AI integrations using OpenAI GPT-4, Anthropic Claude 2.1, and 📐pgVector.  
